@@ -1,4 +1,3 @@
-![gif](https://i.pinimg.com/originals/84/ce/4d/84ce4d5ffcb3d4a4dca0f4cb9b72f608.gif)
 
 <div style="display: flex; justify-content: space-between;">
     <img src="https://i.pinimg.com/originals/e5/4a/fa/e54afabd75adb33464e85f2687b43f87.gif" alt="gif" style="width:;">
