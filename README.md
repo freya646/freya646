@@ -1,4 +1,5 @@
-![gif](https://i.pinimg.com/originals/a9/c0/a5/a9c0a5a348c343f6114997c9e48081e0.gif)
+<img src="https://i.pinimg.com/originals/a9/c0/a5/a9c0a5a348c343f6114997c9e48081e0.gif" alt="gif">
+
 
 <div style="display: flex; justify-content: space-between;">
     <img src="https://i.pinimg.com/originals/e5/4a/fa/e54afabd75adb33464e85f2687b43f87.gif" alt="gif" style="width:;">
