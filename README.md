@@ -1,6 +1,6 @@
 <!-- Futuristic-themed Portfolio README.md -->
 
-# <img src="https://i.pinimg.com/originals/18/b5/ea/18b5ea2167c8ce34ca09540552a05124.gif" alt="gif"> Freya ragnarok
+# <img src="https://i.pinimg.com/originals/18/b5/ea/18b5ea2167c8ce34ca09540552a05124.gif" alt="gif" width="50" height="50"> Freya ragnarok
 ![Header Image](https://i.pinimg.com/originals/e5/4a/fa/e54afabd75adb33464e85f2687b43f87.gif)
 
 ## 👋 Introduction
